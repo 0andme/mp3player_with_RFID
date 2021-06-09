@@ -14,7 +14,7 @@
 ```
 ### 외관 이미지
 
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.blog.naver.com%2Fsilverwingkj%2F221707685573&psig=AOvVaw0ZR6T26bQWl9iDoRFyIezz&ust=1623354227786000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDsnZOpi_ECFQAAAAAdAAAAABAD" width=200></p>
+<p align="center"><img src="https://m.blog.naver.com/d_hye97/221284643256" width=200></p>
 <p align="center"> 애니메이션 캐릭터 '비모'의 디자인으로 외관 제작 </p>
 
 
