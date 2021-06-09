@@ -14,10 +14,10 @@
 ```
 ### 외관 이미지
 
-<p align="center"><img src="https://m.blog.naver.com/d_hye97/221284643256?view=img_6" width=200></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121420204-c3679900-c9a7-11eb-965a-856383b4fc69.png" width=200></p>
 <p align="center"> 애니메이션 캐릭터 '비모'의 디자인으로 외관 제작 </p>
 
 
-### 시현 
+### 시현 사진
 
 <p align="center"><img src="https://user-images.githubusercontent.com/83719746/121419511-feb59800-c9a6-11eb-8600-6893197eeb09.png" width=200></p>
