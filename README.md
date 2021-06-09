@@ -14,10 +14,10 @@
 ```
 ### 외관 이미지
 
-<p align="center"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmblogthumb-phinf.pstatic.net%2FMjAxOTExMTRfMTcg%2FMDAxNTczNzEzNDIwMzkx.NtThUWxkOC4HvPQeHiEnhifFhrP2UOFgvEf3iOg21M8g.PaBwdhsT-CI9mddL5zTFTGEWfNm2Dsql5WNl6MjbiP8g.JPEG.silverwingkj%2FBIMO_%25EB%25B9%2584%25EB%25AA%25A8.jpg%3Ftype%3Dw800&imgrefurl=https%3A%2F%2Fm.blog.naver.com%2Fsilverwingkj%2F221707685573&tbnid=09KIuhUOkJXf8M&vet=12ahUKEwiMxIDyp4vxAhXwzIsBHZyvAGwQMygCegUIARDRAQ..i&docid=-dm2z9ID6aJ1tM&w=596&h=817&q=%EB%B9%84%EB%AA%A8&ved=2ahUKEwiMxIDyp4vxAhXwzIsBHZyvAGwQMygCegUIARDRAQ" width=200></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.blog.naver.com%2Fsilverwingkj%2F221707685573&psig=AOvVaw0ZR6T26bQWl9iDoRFyIezz&ust=1623354227786000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDsnZOpi_ECFQAAAAAdAAAAABAD" width=200></p>
 <p align="center"> 애니메이션 캐릭터 '비모'의 디자인으로 외관 제작 </p>
 
 
-### 시현 이미지
+### 시현 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/83719746/121419511-feb59800-c9a6-11eb-8600-6893197eeb09.png" width=200></p>
