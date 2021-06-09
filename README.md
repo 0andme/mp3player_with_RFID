@@ -1,5 +1,5 @@
 # mp3player_with_RFID
-전자전시회 출품작 - RFID 태그를 이용한 MP3플레이어 with Arduino
+## RFID 태그를 이용한 MP3플레이어 with Arduino
 ##### 교내 학술 동아리 전자전시회 출품 - 1등 수상
 
 ### 기능
