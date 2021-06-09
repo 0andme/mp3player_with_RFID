@@ -20,4 +20,4 @@
 
 ### 시현 이미지
 
-<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121419511-feb59800-c9a6-11eb-8600-6893197eeb09.png width=200></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121419511-feb59800-c9a6-11eb-8600-6893197eeb09.png" width=200></p>
